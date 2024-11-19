@@ -69,6 +69,8 @@ def salvar_no_firestore(data):
     except Exception as e:
         # Se ocorrer um erro, imprime uma mensagem de erro
         print('Erro ao salvar documento:', e)
+
+#importa a bibliotecas pandas
 import pandas as pd
 
 # Função para ler arquivos CSV e armazenar os dados em variáveis
