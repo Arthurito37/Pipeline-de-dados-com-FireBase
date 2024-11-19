@@ -1,3 +1,6 @@
+# Instala as bibliotecas firebase-admin
+!pip install firebase-admin
+
 # Importa a biblioteca principal do Firebase Admin SDK
 import firebase_admin
 
